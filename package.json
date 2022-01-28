@@ -14,5 +14,8 @@
     "url": "https://github.com/mostlylikeable/github-packages-testing/issues"
   },
   "homepage": "https://github.com/mostlylikeable/github-packages-testing#readme",
-  "test": "exit 0"
+  "test": "exit 0",
+  "publishConfig": {
+    "@mostlylikeable:registry": "https://npm.pkg.github.com"
+  }
 }
