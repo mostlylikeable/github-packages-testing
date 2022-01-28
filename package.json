@@ -1,0 +1,18 @@
+{
+  "name": "@mostlylikeable/github-packages-testing",
+  "version": "1.0.0",
+  "decription": "",
+  "main": "dist/index",
+  "keywords": [],
+  "author": "mostlylikeable",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostlylikeable/github-packages-testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mostlylikeable/github-packages-testing/issues"
+  },
+  "homepage": "https://github.com/mostlylikeable/github-packages-testing#readme",
+  "test": "exit 0"
+}
